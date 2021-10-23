@@ -1,0 +1,10 @@
+Krok pierwszy: określenie celów programu
+Celem jest przeliczenie cali na centymetry (użytkownik wpisuje wartość w calach, program przelicza na cale)
+Krok drugi: projektowanie programu
+
+start
+int cale, centymetry
+pisz: podaj wartość w calach
+wczytaj: cale
+pisz: jest to x centymetrów (x=cale*2,54)
+koniec
